@@ -156,7 +156,7 @@ export function Home() {
             </div>
             <div className={styles["sidebar-action"]}>
               <a href={REPO_URL} target="_blank">
-                <IconButton icon={<QQIcon />} shadow />
+                <IconButton icon={<QQIcon />
               </a>
             </div>
           </div>
